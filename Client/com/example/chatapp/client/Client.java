@@ -1,3 +1,4 @@
+package com.example.chatapp.client;
 
 /*
  * Connects to server through port 3940
